@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @uma-gandlure
-- 👀 I’m interested in learning programming
-- 🌱 I’m currently learning html
+- 👀 I’m interested in learning verilg
+- 🌱 I’m currently learning verilog 
 - 💞️ I’m looking to collaborate on github
 - 📫 you can reach me through gandlureumamaheswarareddy@gmail.com
 
