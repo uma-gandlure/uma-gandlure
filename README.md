@@ -8,20 +8,12 @@
 
 I’m an Electronics and Communication Engineering student with a strong interest in **Digital VLSI Design** and **ASIC development**. I’m currently focused on building skills in **Verilog HDL**, designing RTL-based systems, and implementing them on FPGA boards like **Artix-7**.
 
-I'm also preparing for **GATE 2026/27** to pursue MTech in **VLSI Design** from a top-tier institute in India.
-
 
 ## 🔧 Skills
 
 - **Languages**: Verilog HDL, C (basic)
 - **Tools**: Xilinx Vivado.
-- **Hardware**: Edge Artix-7 FPGA board,Aurdino UNO
-- **Core Areas**:
-  - RTL Design
-  - FSM-based Design
-  - Digital Logic & Synchronous Systems
-  - 7-Segment Display Control
-  - Sensor Interfacing (HC-SR04)
+- **Hardware**: Edge Artix-7 FPGA board
 
 
 ## 📂 Projects
@@ -34,12 +26,6 @@ I'm also preparing for **GATE 2026/27** to pursue MTech in **VLSI Design** from 
 
 > More projects are under development as I continue exploring FPGA-based RTL design.
 
-## 🎯 Career Goals
-
-- Strengthen RTL and ASIC design knowledge  
-- Complete hands-on FPGA and HDL-based projects  
-- Crack GATE and pursue MTech in VLSI  
-- Work as an ASIC Design Engineer in a top semiconductor company (e.g., Qualcomm, Nvidia, AMD)
 
 
 ## 📫 Contact
